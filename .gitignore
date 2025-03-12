@@ -1,0 +1,23 @@
+# Archivos y carpetas generadas por Android Studio/IntelliJ
+.idea/
+*.iml
+local.properties
+
+# Archivos generados por Gradle
+.gradle/
+build/
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+
+# Archivos de configuración del sistema
+.DS_Store
+
+# Archivos de compilación nativa (si usas C++)
+.externalNativeBuild
+.cxx
+
+# Capturas generadas por Android Studio
+captures/
